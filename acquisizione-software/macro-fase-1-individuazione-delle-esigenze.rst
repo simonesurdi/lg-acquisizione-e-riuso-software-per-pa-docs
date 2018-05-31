@@ -1,7 +1,7 @@
 Macro fase 1: Individuazione delle esigenze
 -------------------------------------------
 
-Nella presente Macro fase, la pubblica amministrazione definisce le
+Nella presente Macro fasi, la pubblica amministrazione definisce le
 esigenze (bisogni e vincoli) che condizionano le scelte per
 l’individuazione di una soluzione; si suggerisce di redigere un
 documento (senza alcun vincolo di forma) descrittivo delle esigenze
